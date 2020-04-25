@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct WeatherCell {
+struct WeatherCellModel {
     let date: String
     let iconName: String
     let sunriseTime: String
